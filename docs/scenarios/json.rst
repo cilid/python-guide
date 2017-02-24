@@ -39,7 +39,7 @@ You can also convert the following to JSON:
     }
 
     print(json.dumps(d))
-    '{"first_name": "Guido", "last_name": "Rossum", "titles": ["BDFL", "Developer"]}'
+    '{"first_name": "Guido", "second_name": "Rossum", "titles": ["BDFL", "Developer"]}'
 
 
 simplejson
